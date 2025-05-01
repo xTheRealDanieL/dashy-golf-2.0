@@ -4,7 +4,13 @@
 
 ---
 
-## 🚀 Project Summary
+## 🚀 Live Demo
+
+👉 [Click here to try the live version](https://xtherealdaniel.github.io/dashy-golf-2.0/)
+
+---
+
+## 🖥️ Project Summary
 
 Originally a simple golf-puzzle game where players dash their ball into the hole, **Dashy Golf 2.0** evolves the concept into a sleek, replayable web experience. The goal is straightforward: use **WASD** to move the ball and get it into the hole in the fewest strokes possible. 
 
@@ -18,7 +24,7 @@ This 2.0 version builds on the original gameplay with:
 
 ---
 
-## 🧰 Technologies Used
+## 🛠 Tech Stack
 
 | Tool/Tech         | Purpose                                       |
 |------------------|-----------------------------------------------|
@@ -31,7 +37,7 @@ This 2.0 version builds on the original gameplay with:
 
 ---
 
-## 🎮 Gameplay Instructions
+## ⚙️ How It Works
 
 - **Move Ball**: `W`, `A`, `S`, `D`
 - **Restart Level**: `R`
@@ -52,11 +58,11 @@ The leaderboard is powered by a simple PHP + MySQL backend using a RESTful API. 
 
 ---
 
-## 📋 Credits
+## 👥 Creadits
 
 - **Megastyle** - Original game concept and artwork
-- **Long H. Nguyen** - Team Lead/Dev/QA/....
-- Special thanks to Prof. Andrew Lively & TA Kevin Jin for their support and guidance throughout my time this Spring Semester.
+- **Long H. Nguyen** – CIO, Fullstack Developer, UI Integration, Project Lead
+- 🌟 Special thanks to Prof. Andrew Lively & TA Kevin Jin for their support and guidance throughout my time this Spring Semester.
 
 ---
 
@@ -76,3 +82,4 @@ This project is made as a Final Project for the [Web Game Development] (IT 3049C
 - [WAMP Server](https://www.wampserver.com/)
 - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 - [GitHub Pages](https://pages.github.com/)
+
